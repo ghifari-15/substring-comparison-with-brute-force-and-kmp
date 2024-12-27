@@ -1,2 +1,2 @@
-﻿# substring-comparison-with-brute-force-and-kmp-
+﻿# Substring Comparison With Brute force and kmp 
 
